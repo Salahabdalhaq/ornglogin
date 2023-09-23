@@ -1,0 +1,17 @@
+{
+    "username": {
+        "valid": "admin",
+        "invalid": "hii",
+        "empty": ""
+       },
+
+       "password":{
+        "valid": "admin123",
+        "invalid": "hii24342",
+        "empty": ""
+       },
+       "errorMsg":{
+        "masseg":"Invalid credentials"
+       }
+}
+  
